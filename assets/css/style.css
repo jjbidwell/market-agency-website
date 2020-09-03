@@ -96,7 +96,7 @@ p {
     text-align: center;
 }
 
-.benefit-item img {
+.benefit-img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -111,7 +111,7 @@ p {
     color: #ffffff;
 }
 
-.service-item img {
+.service-img {
     max-height: 200px;
 }
 
