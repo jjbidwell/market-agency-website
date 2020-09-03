@@ -1,2 +1,6 @@
 # market-agency-website
-This is a marketing agency static page that I have re-written to include appropriate semantic tags, html comments to better define the page structure, and more efficient and easier-to-read css. Html and css have been validated online without errors or warnings. 
+HTML and CSS Code Refactor
+
+Description
+
+This is a basic project in which I have taken existing code and re-written with semantic HTML elements to better meet standards for acccessibility and search engine optimiation. I also added many classes to similarly-styled elements to shorten the CSS file by removing redundant code.
