@@ -91,7 +91,7 @@ p {
     color: #ffffff;
 }
 
-.benefit-item h3 {
+.benefit-title {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -115,7 +115,7 @@ p {
     max-height: 200px;
 }
 
-.service-item h2 {
+.service-title {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -127,6 +127,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer-text {
     font-size: 20px;
 }
