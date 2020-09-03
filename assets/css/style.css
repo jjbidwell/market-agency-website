@@ -6,13 +6,13 @@
 
 body {
     background-color: #d9dcd6;
+    color: #ffffff;
 }
 
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
 }
 
 h1 {
@@ -88,7 +88,6 @@ p {
 
 .benefit-item {
     margin-bottom: 32px;
-    color: #ffffff;
 }
 
 .benefit-title {
@@ -108,7 +107,6 @@ p {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
 }
 
 .service-img {
@@ -125,6 +123,7 @@ p {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    color: #030303;
 }
 
 .footer-text {
